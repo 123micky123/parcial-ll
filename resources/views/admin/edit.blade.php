@@ -10,6 +10,8 @@
                         <div class="widget">
                             <header class="widget-header">
                                 <h4 class="widget-title">Editar usuario</h4>
+                                <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                             </header><!-- .widget-header -->
                             <hr class="widget-separator">
                             <div class="widget-body">

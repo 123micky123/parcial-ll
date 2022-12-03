@@ -7,6 +7,8 @@
                 <div class="widget-body clearfix bg-success">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Crear usuario</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i
                                 class="fa fa-user-plus"></i></span>
@@ -21,6 +23,8 @@
                 <div class="widget-body clearfix bg-purple">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Crear cartera</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i
                                 class="fa fa-map-marker"></i></span>
@@ -35,6 +39,8 @@
                 <div class="widget-body clearfix bg-deepOrange">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Listar usuarios</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-list-ol"></i></span>
                 </div>
@@ -64,6 +70,8 @@
                 <div class="widget-body clearfix bg-primary">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Mostrar clientes</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-th-list"></i></span>
                 </div>
@@ -77,6 +85,8 @@
                 <div class="widget-body clearfix bg-purple">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Simulador</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i
                                 class="fa fa-calculator"></i></span>
@@ -91,6 +101,8 @@
                 <div class="widget-body clearfix bg-success">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Registrar pago</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-money"></i></span>
                 </div>
@@ -104,6 +116,8 @@
                 <div class="widget-body clearfix bg-deepOrange">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Iniciar Ruta</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-car"></i></span>
                 </div>
@@ -117,6 +131,8 @@
                 <div class="widget-body clearfix bg-danger">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Historia cierre</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-lock"></i></span>
                 </div>
@@ -129,6 +145,8 @@
                 <div class="widget-body clearfix bg-inverse">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Transacciones</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-list-ol"></i></span>
                 </div>
@@ -142,6 +160,8 @@
                 <div class="widget-body clearfix bg-pink">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Gastos</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i
                                 class="fa fa-cart-plus"></i></span>
@@ -161,6 +181,8 @@
                 <div class="widget-body clearfix bg-warning">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Asignar base</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-dollar"></i></span>
                 </div>
@@ -174,6 +196,8 @@
                 <div class="widget-body clearfix bg-primary">
                     <div class="pull-left">
                         <h3 class="widget-title text-white">Cierre diario</h3>
+                        <h4 class="widget-title">Miguel M. Burgoa Sagalo</h4>
+                                <h4 class="widget-title">C.I: 10933861</h4>
                     </div>
                     <span class="pull-right big-icon watermark"><i class="fa fa-lock"></i></span>
                 </div>
